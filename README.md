@@ -54,12 +54,3 @@ I specialize in Front End Web Engineer & Mobile Hybrid Engineer. Currently, I am
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 </p>
 
-
-
-### Github Stats:
-
-<br>
-
-<p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=aacassandra&show_icons=true&count_private=true&theme=prussian&line_height=32">
-</p>
