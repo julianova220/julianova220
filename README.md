@@ -9,7 +9,7 @@
 </p>
 
 # Hi there 👋 , I'm Top dev!
-I specialize in Front End Web Engineer & Mobile Hybrid Engineer. Currently, I am open to any opportunity, especially in IT as a Web Developer and Mobile Developer. I also make plugin for open source, you can check on npm package and composer package with prefix @aacassandra. I hope it will be of use to many people.
+I specialize in Front End Web Engineer & Blockchain Engineer. Currently, I am open to any opportunity, especially in IT as a Web Developer and Mobile Developer. I also make plugin for open source, you can check on npm package and composer package with prefix @aacassandra. I hope it will be of use to many people.
 <table style="border-size:0px">
   <tr >
   <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/rubymine-1175004.png" width="90"> Rails </td>    
@@ -25,9 +25,9 @@ I specialize in Front End Web Engineer & Mobile Hybrid Engineer. Currently, I am
   </table>
 ### About Me:
  <summary><strong>What i am learning/working on these days</strong></summary>
-  - 🔭 I currently work as a Frontend Web Engineer </br>
-  - 📱 I also worked on and studied about Mobile Hybrid </br>
-  - 🌱 I'm currently exploring the world of nodejs </br>
+  - 🔭 I currently work as a Full Stack Web Engineer </br>
+  - 📱 I also worked on and studied about Blockchain </br>
+  - 🌱 I'm currently exploring the world of Solana </br>
   - 🌎 Deploying web app to server and manage database <br/>
   - 💬 Ask me about anything. </br>
   - ⚡ Fun facts: ... </br>
