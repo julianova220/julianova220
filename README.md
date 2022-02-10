@@ -1,6 +1,5 @@
 
-<p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/></p>
+<p align="center" ><a href="https://app.daily.dev/topdev0104"><img src="https://api.daily.dev/devcards/f79bd2d585b948f0bcb619eff0630ca1.png?r=fq6" width="400" alt="Top dev's Dev Card"/></a></p>
 
 <p align="center">
  💎 💎 💎 </br>
