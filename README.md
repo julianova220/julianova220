@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Topdev0104/Topdev0104/blob/main/devcard.svg" width="400" alt="Top Dev's Dev Card"/></a>
+<p align="center"><a href="https://app.daily.dev/topdev0104"><img src="https://github.com/Topdev0104/Topdev0104/blob/main/devcard.svg" width="400" alt="Top Dev's Dev Card"/></a></p>
 
 <p align="center">
  💎 💎 💎 </br>
