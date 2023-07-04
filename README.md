@@ -7,7 +7,7 @@
 </p>
 
 # Hi there 👋 , I'm a Top developer!
-I specialize in Front End Web Engineer & Blockchain Engineer. Currently, I am open to any opportunity, especially in IT as a Web Developer and Mobile Developer. I also make plugin for open source, you can check on npm package and composer package with prefix @aacassandra. I hope it will be of use to many people.
+I specialize in Front End Web Engineer & Blockchain Engineer. Currently, I am open to any opportunity, especially in IT as a Web Developer and Mobile Developer.
 <table style="border-size:0px">
   <tr >
 <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="60"> TypeScript</td> 
