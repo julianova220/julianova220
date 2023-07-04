@@ -13,7 +13,7 @@ I specialize in Front End Web Engineer & Blockchain Engineer. Currently, I am op
 <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="60"> TypeScript</td> 
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="90"> React</td>  
     <td style="border: none;"><img src="https://raw.githubusercontent.com/web3-king/web3-king/main/pics/ethereum.png" width="90"> Ethereum </td>   
-    <td style="border: none;"><img src="https://w7.pngwing.com/pngs/572/784/png-transparent-bitcoin-cash-cryptocurrency-ethereum-bitcoin-logo-material-trade-thumbnail.png" width="100"> Blockchain</td>  
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/web3-king/web3-king/main/pics/solana.png" width="100"> Solana</td>  
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="90"> Node.js</td>
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="90"> Laravel </td>
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="90"> Python </td>  
