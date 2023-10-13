@@ -29,7 +29,7 @@ I specialize in Front End Web Engineer & Blockchain Engineer. Currently, I am op
   - 🌱 I'm currently exploring the world of Solana </br>
   - 🌎 Deploying web app to server and manage database <br/>
   - 💬 Ask me about anything. </br>
-  - ⚡ Fun facts: ... </br>
+  - ⚡ Fun facts: .... </br>
   
 ### Languages and Tools
 
