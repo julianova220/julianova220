@@ -1,5 +1,3 @@
-<p align="center"><a href="https://app.daily.dev/partner0831"><img src="https://api.daily.dev/devcards/v2/R3vkeWsY8fwp1ISPqLwWp.png?r=1jw&type=default" width="356" alt="Top dev's Dev Card"/></a></p>
-
 <p align="center">
  💎 💎 💎 </br>
  Let's coding every day, Learn every time.<br>
