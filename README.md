@@ -1,10 +1,8 @@
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;❤Senior+Blockchain+Developer❤;+Passinate+and+Reliable+Developer;" />
 </h1>
 <br />
-<!--
-### I’m a Software Developer with about 3 years of experience in Blockchain.<br/> I’ve worked a lot with  Web3, Solidity, Ethereum, NFTs, Uniswap, DeFi , and  sniper bots , plus building wallets and DApps — so I’ve got solid hands-on experience. <br/>Whatever task that I set to do, I always give my best and complete it diligently well in advance.<br/> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
--->
 <br/>
  <h3>🥇 Thanks for visiting! Please don't forgot giving 🌟star🌟 and following 🤩 </h3>
 <br/>
@@ -129,3 +127,8 @@
 <H2></H2>
 
  ![snake gif](https://github.com/igdev116/igdev116/blob/output/github-contribution-grid-snake.svg)
+
+ 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
