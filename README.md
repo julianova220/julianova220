@@ -2,10 +2,12 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;❤Senior+Blockchain+Developer❤;+Passinate+and+Reliable+Developer;" />
 </h1>
-<br />
-<br/>
- <h3>🥇 Thanks for visiting! Please don't forgot giving 🌟star🌟 and following 🤩 </h3>
-<br/>
+ <br/>
+ <h3>
+   I am a diligent software engineer and avid open source developer with over 6 years of experience. <br/>
+   I am focused on building innovative and cutting-edge business solutions for clients around the world.<br/>
+   Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here. </h3>
+    <br/>
 <h2>💻&nbspSkills✔</h2>
 <br/>
 <table align="center">
