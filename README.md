@@ -1,8 +1,8 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;❤Senior+Blockchain+Developer❤;+Full Time;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;Welcome+to+my+github+profile;❤Blockchain+Developer❤;" />
 </h1>
-<h3>I am a diligent software engineer and avid open source developer with over 6 years of experience. <br/>
+<h3>I am a diligent blockchain developer and avid open source developer with over 6 years of experience. <br/>
    I am focused on building innovative and cutting-edge business solutions for clients around the world.<br/>
    Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
 </h3>
