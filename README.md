@@ -1,15 +1,13 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;Welcome+to+my+github+profile;❤Blockchain+Developer❤;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello!+👋;Welcome+to+my+github+profile;❤Full+Stack+Developer❤;❤Blockchain+Developer❤" />
 </h1>
 
 [![GitHub followers](https://img.shields.io/github/followers/julianova220?style=social)](https://github.com/julianova220)
 [![Hireable](https://img.shields.io/badge/Hireable-Yes-brightgreen)](https://github.com/julianova220)
 
 
-<h3>I am a full stact & blockchain developer and avid open source developer with over 6 years of experience. <br/>
-   I am focused on building innovative and cutting-edge business solutions for clients around the world.<br/>
-   Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
+<h3>I’m a full-stack and blockchain developer with over three years of experience, dedicated to creating thoughtful, innovative, and impactful solutions. I truly enjoy building meaningful projects and exploring new technologies, and I’m always delighted to contribute to the open-source community. I hope you enjoy browsing my work, and I warmly welcome any collaboration or connection.
 </h3>
 
 <!-- <h2>💻&nbspSkills✔</h2>
